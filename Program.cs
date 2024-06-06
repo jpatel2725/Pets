@@ -120,9 +120,7 @@ class Program
                     break;
             }
 
-            // Simulate passage of time
-            //pet.Hunger = Math.Min(pet.Hunger + 1, 10);
-            //pet.Happiness = Math.Max(pet.Happiness - 1, 0);
+            
 
             // Status check
             if (pet.Hunger == 10)
